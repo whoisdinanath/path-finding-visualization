@@ -22,8 +22,8 @@ This project is a visualization of the most common path finding algorithms. The 
 ## Screenshots
 - Dijkstra's algorithm
 ---------------------------------
-![Dijkstra's algorithm](screenshots/dijkstra.gif)
+![Dijkstra's algorithm](screenshots/dijkstra.png)
 
 - A* algorithm
 ---------------------------------
-![A* algorithm](screenshots/astar.gif)
+![A* algorithm](screenshots/astar.png)
